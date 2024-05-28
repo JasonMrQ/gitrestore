@@ -1,0 +1,16 @@
+{
+  "name": "gitrestore",
+  "version": "1.0.0",
+  "description": "git file recover",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js && exit 1"
+  },
+  "keywords": [
+    "git",
+    "fix",
+    "recover"
+  ],
+  "author": "Jason",
+  "license": "ISC"
+}
